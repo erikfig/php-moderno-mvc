@@ -8,7 +8,6 @@ class Controller
 {
 	public function __construct(Request $request)
 	{
-		erik
 		$this->request = $request;
 	}
 }
